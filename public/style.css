@@ -99,6 +99,14 @@
   left: 28px;
   color: #fff;
 }
+#video_grid {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  background-color: var(--main-dark);
+}
 .redBg{
   background-color: rgb(255, 46, 46);
 }
